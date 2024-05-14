@@ -29,7 +29,7 @@ android {
         namespace 'com.peakysoftware.plugin_wifi_connect'
     }
     
-    compileSdk flutter.compileSdkVersion
+    compileSdk 30
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
